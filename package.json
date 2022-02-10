@@ -1,0 +1,24 @@
+{
+  "name": "tfa_web",
+  "version": "1.0.0",
+  "description": "Eu ainda nao sei o que eu quero com esse repositório",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indexGuilherme/tfa_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indexGuilherme/tfa_web/issues"
+  },
+  "homepage": "https://github.com/indexGuilherme/tfa_web#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.49.7"
+  }
+}
