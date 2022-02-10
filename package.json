@@ -19,6 +19,7 @@
   "homepage": "https://github.com/indexGuilherme/tfa_web#readme",
   "dependencies": {
     "bootstrap": "^5.1.3",
+    "font-awesome": "^4.7.0",
     "sass": "^1.49.7"
   }
 }
